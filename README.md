@@ -4,7 +4,9 @@
 Olá sou Thales Edilson Mesquita Farias, 
 Tenho 21 anos e sou natural de Fortaleza/CE🌴.
 Concluí o ensino médio no EEMTI Jenny Gomes, atualmente fazendo curso técnico de Dev Full Stack Com os irmãos do Dev em Dobro. 
-Sou apaixonado por tecnologia, sempre buscando constante evolução e inovação!
+Concluí Google IT Support Professional pela CIEE + Google
+Cursando IA Generativa pela Geração Tech.
+Sou completamente apaixonado pela tecnologia sempre buscando constante evolução e inovação!
 
 ---
 
